@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    android:padding="16dp"
+    android:background="@drawable/background">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="14dp"
+        android:layout_marginBottom="30dp"
+        android:textSize="36dp"
+        android:text="@string/modules" />
+
+    <TextView
+        android:id="@+id/textViewC346"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:background="@drawable/edit_background"
+        android:padding="16dp"
+        android:text="@string/c346" />
+
+    <TextView
+        android:id="@+id/textViewC206"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:background="@drawable/edit_background"
+        android:padding="16dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/c206" />
+
+    <TextView
+        android:id="@+id/textViewC203"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:background="@drawable/edit_background"
+        android:padding="16dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/c203" />
+
+    <TextView
+        android:id="@+id/textViewC218"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:background="@drawable/edit_background"
+        android:padding="16dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/c218" />
+
+    <TextView
+        android:id="@+id/textViewC235"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:background="@drawable/edit_background"
+        android:padding="16dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/c235" />
+
+    <TextView
+        android:id="@+id/textViewC349"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:background="@drawable/edit_background"
+        android:padding="16dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/c349" />
+
+</LinearLayout>
